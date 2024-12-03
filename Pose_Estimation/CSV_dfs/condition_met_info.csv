@@ -1,0 +1,182 @@
+filename,frame,seconds
+labels_v001_000_08_19_21_ Set 1_ Cage A_ 1_Mated_sub6_360_369_analysis,60,2.0
+labels_v001_001_08_19_21_ Set 1_ Cage A_ 2_Mated_sub0_59_109_analysis,51,1.7
+labels_v001_002_08_19_21_ Set 1_ Cage A_ 2_Mated_sub1_154_214_analysis,58,1.9333333333333333
+labels_v001_003_08_19_21_ Set 1_ Cage A_ 2_Mated_sub2_231_294_analysis,37,1.2333333333333334
+labels_v001_004_08_19_21_ Set 1_ Cage A_ 2_Mated_sub3_298_320_analysis,53,1.7666666666666666
+labels_v001_005_08_19_21_ Set 1_ Cage A_ 2_Mated_sub4_397_412_analysis,55,1.8333333333333333
+labels_v001_006_08_19_21_ Set 1_ Cage A_ 2_Mated_sub5_420_523_analysis,53,1.7666666666666666
+labels_v001_007_08_19_21_ Set 1_ Cage A_ 2_Mated_sub6_525_535_analysis,40,1.3333333333333333
+labels_v001_008_08_19_21_ Set 1_ Cage A_ 3_Mated_sub1_104_122_analysis,42,1.4
+labels_v001_009_08_19_21_ Set 1_ Cage A_ 3_Mated_sub2_128_151_analysis,50,1.6666666666666667
+labels_v001_010_08_19_21_ Set 1_ Cage A_ 3_Mated_sub7_317_340_analysis,44,1.4666666666666666
+labels_v001_011_08_19_21_ Set 1_ Cage A_ 3_Mated_sub9_477_489_analysis,38,1.2666666666666666
+labels_v001_012_08_19_21_ Set 1_ Cage B_ 1_Virgin_sub0_100_117_attempted_analysis,63,2.1
+labels_v001_013_08_19_21_ Set 1_ Cage B_ 1_Virgin_sub1_362_375_succesful_analysis,40,1.3333333333333333
+labels_v001_014_08_19_21_ Set 1_ Cage B_ 2_Virgin_sub0_119_131_succesful_analysis,50,1.6666666666666667
+labels_v001_015_08_19_21_ Set 1_ Cage B_ 2_Virgin_sub1_172_185_analysis,59,1.9666666666666666
+labels_v001_016_08_19_21_ Set 1_ Cage B_ 2_Virgin_sub2_241_250_analysis,45,1.5
+labels_v001_017_08_19_21_ Set 1_ Cage B_ 2_Virgin_sub3_304_311_analysis,48,1.6
+labels_v001_018_08_19_21_ Set 1_ Cage B_ 2_Virgin_sub4_321_331_analysis,46,1.5333333333333334
+labels_v001_019_08_19_21_ Set 1_ Cage B_ 2_Virgin_sub5_385_393_analysis,48,1.6
+labels_v001_020_08_19_21_ Set 1_ Cage B_ 2_Virgin_sub6_403_410_analysis,52,1.7333333333333334
+labels_v001_021_08_19_21_ Set 1_ Cage B_ 2_Virgin_sub7_420_423_analysis,53,1.7666666666666666
+labels_v001_023_08_19_21_ Set 2_ Cage A_ 1_Virgin_sub0_211_226_succesful_analysis,57,1.9
+labels_v001_024_08_19_21_ Set 2_ Cage A_ 2_Virgin_sub0_170_192_succesful_analysis,49,1.6333333333333333
+labels_v001_025_08_19_21_ Set 2_ Cage A_ 2_Virgin_sub1_267_274_analysis,56,1.8666666666666667
+labels_v001_026_08_19_21_ Set 2_ Cage A_ 2_Virgin_sub2_336_348_analysis,49,1.6333333333333333
+labels_v001_027_08_19_21_ Set 2_ Cage A_ 2_Virgin_sub3_447_453_analysis,42,1.4
+labels_v001_028_08_19_21_ Set 2_ Cage A_ 2_Virgin_sub4_490_496_analysis,44,1.4666666666666666
+labels_v001_029_08_19_21_ Set 2_ Cage A_ 2_Virgin_sub5_508_517_analysis,42,1.4
+labels_v001_031_08_19_21_ Set 2_ Cage A_ 4_Virgin_sub1_375_389_analysis,39,1.3
+labels_v001_032_08_19_21_ Set 2_ Cage A_ 4_Virgin_sub2_455_466_analysis,57,1.9
+labels_v001_033_08_19_21_ Set 2_ Cage A_ 5_Virgin_sub0_61_68_attempted_analysis,56,1.8666666666666667
+labels_v001_034_08_19_21_ Set 2_ Cage A_ 5_Virgin_sub1_98_105_attempted_analysis,50,1.6666666666666667
+labels_v001_035_08_19_21_ Set 2_ Cage A_ 5_Virgin_sub2_129_136_attempted_analysis,24,0.8
+labels_v001_036_08_19_21_ Set 2_ Cage A_ 5_Virgin_sub3_142_147_attempted_analysis,47,1.5666666666666667
+labels_v001_037_08_19_21_ Set 2_ Cage A_ 5_Virgin_sub4_169_174_attempted_analysis,47,1.5666666666666667
+labels_v001_039_08_19_21_ Set 2_ Cage A_ 5_Virgin_sub6_212_227_attempted_analysis,44,1.4666666666666666
+labels_v001_040_08_19_21_ Set 2_ Cage A_ 5_Virgin_sub7_269_278_attempted_analysis,50,1.6666666666666667
+labels_v001_041_08_19_21_ Set 2_ Cage A_ 5_Virgin_sub8_345_361_succesful_analysis,50,1.6666666666666667
+labels_v001_042_08_19_21_ Set 2_ Cage A_ 5_Virgin_sub9_413_419_analysis,51,1.7
+labels_v001_043_08_19_21_ Set 2_ Cage A_ 5_Virgin_sub10_492_500_analysis,44,1.4666666666666666
+labels_v001_044_08_19_21_ Set 2_ Cage B_ 1_Mated_sub0_380_397_analysis,43,1.4333333333333333
+labels_v001_045_08_19_21_ Set 2_ Cage B_ 1_Mated_sub1_531_542_analysis,48,1.6
+labels_v001_046_08_19_21_ Set 2_ Cage B_ 2_Mated_sub0_115_130_analysis,48,1.6
+labels_v001_047_08_19_21_ Set 2_ Cage B_ 2_Mated_sub1_179_223_analysis,54,1.8
+labels_v001_048_08_19_21_ Set 2_ Cage B_ 2_Mated_sub2_362_377_analysis,57,1.9
+labels_v001_050_08_19_21_ Set 2_ Cage B_ 3_Mated_sub1_266_282_analysis,50,1.6666666666666667
+labels_v001_051_08_19_21_ Set 2_ Cage B_ 3_Mated_sub2_390_406_analysis,44,1.4666666666666666
+labels_v001_052_08_19_21_ Set 2_ Cage B_ 3_Mated_sub3_492_516_analysis,32,1.0666666666666667
+labels_v001_053_08_20_21_ Set 1_ Cage A_ 1_Virgin_sub0_122_136_succesful_analysis,50,1.6666666666666667
+labels_v001_054_08_20_21_ Set 1_ Cage A_ 1_Virgin_sub2_521_531_analysis,49,1.6333333333333333
+labels_v001_055_08_20_21_ Set 1_ Cage A_ 2_Virgin_sub1_157_172_succesful_analysis,37,1.2333333333333334
+labels_v001_056_08_20_21_ Set 1_ Cage A_ 2_Virgin_sub4_208_220_analysis,0,0.0
+labels_v001_057_08_20_21_ Set 1_ Cage A_ 2_Virgin_sub5_361_387_analysis,51,1.7
+labels_v001_058_08_20_21_ Set 1_ Cage A_ 2_Virgin_sub6_402_412_analysis,52,1.7333333333333334
+labels_v001_059_08_20_21_ Set 1_ Cage A_ 2_Virgin_sub7_446_458_analysis,56,1.8666666666666667
+labels_v001_060_08_20_21_ Set 1_ Cage A_ 3_Virgin_sub0_135_151_succesful_analysis,58,1.9333333333333333
+labels_v001_061_08_20_21_ Set 1_ Cage A_ 3_Virgin_sub2_485_615_analysis,52,1.7333333333333334
+labels_v001_063_08_20_21_ Set 1_ Cage B_ 1_Mated_sub1_497_505_analysis,60,2.0
+labels_v001_064_08_20_21_ Set 1_ Cage B_ 2_Mated_sub0_185_195_analysis,51,1.7
+labels_v001_065_08_20_21_ Set 1_ Cage B_ 2_Mated_sub1_306_317_analysis,43,1.4333333333333333
+labels_v001_066_08_20_21_ Set 1_ Cage B_ 2_Mated_sub2_466_475_analysis,57,1.9
+labels_v001_067_08_20_21_ Set 1_ Cage B_ 2_Mated_sub3_559_567_analysis,49,1.6333333333333333
+labels_v001_068_08_20_21_ Set 1_ Cage B_ 3_Mated_sub5_279_288_analysis,37,1.2333333333333334
+labels_v001_069_08_20_21_ Set 1_ Cage B_ 3_Mated_sub6_330_340_analysis,59,1.9666666666666666
+labels_v001_070_08_20_21_ Set 1_ Cage B_ 3_Mated_sub7_368_376_analysis,39,1.3
+labels_v001_071_08_20_21_ Set 2_ Cage A_ 1_Mated_sub0_38_47_analysis,38,1.2666666666666666
+labels_v001_072_08_20_21_ Set 2_ Cage A_ 1_Mated_sub1_66_75_analysis,34,1.1333333333333333
+labels_v001_073_08_20_21_ Set 2_ Cage A_ 1_Mated_sub2_87_94_analysis,48,1.6
+labels_v001_074_08_20_21_ Set 2_ Cage A_ 1_Mated_sub5_97_100_analysis,62,2.066666666666667
+labels_v001_075_08_20_21_ Set 2_ Cage A_ 1_Mated_sub6_113_122_analysis,48,1.6
+labels_v001_076_08_20_21_ Set 2_ Cage A_ 1_Mated_sub9_209_215_analysis,41,1.3666666666666667
+labels_v001_077_08_20_21_ Set 2_ Cage A_ 1_Mated_sub10_226_235_analysis,52,1.7333333333333334
+labels_v001_078_08_20_21_ Set 2_ Cage A_ 1_Mated_sub11_239_245_analysis,34,1.1333333333333333
+labels_v001_079_08_20_21_ Set 2_ Cage A_ 1_Mated_sub12_285_294_analysis,56,1.8666666666666667
+labels_v001_080_08_20_21_ Set 2_ Cage A_ 1_Mated_sub13_295_297_analysis,0,0.0
+labels_v001_081_08_20_21_ Set 2_ Cage A_ 1_Mated_sub14_325_331_analysis,40,1.3333333333333333
+labels_v001_082_08_20_21_ Set 2_ Cage A_ 1_Mated_sub15_344_349_analysis,44,1.4666666666666666
+labels_v001_083_08_20_21_ Set 2_ Cage A_ 1_Mated_sub16_350_356_analysis,0,0.0
+labels_v001_084_08_20_21_ Set 2_ Cage A_ 1_Mated_sub18_361_372_analysis,0,0.0
+labels_v001_085_08_20_21_ Set 2_ Cage A_ 1_Mated_sub21_377_382_analysis,2,0.06666666666666667
+labels_v001_086_08_20_21_ Set 2_ Cage A_ 1_Mated_sub22_389_395_analysis,38,1.2666666666666666
+labels_v001_088_08_20_21_ Set 2_ Cage A_ 1_Mated_sub24_444_452_analysis,50,1.6666666666666667
+labels_v001_089_08_20_21_ Set 2_ Cage A_ 1_Mated_sub25_477_483_analysis,55,1.8333333333333333
+labels_v001_090_08_20_21_ Set 2_ Cage A_ 1_Mated_sub27_495_499_analysis,38,1.2666666666666666
+labels_v001_091_08_20_21_ Set 2_ Cage A_ 2_Mated_sub0_339_347_analysis,48,1.6
+labels_v001_092_08_20_21_ Set 2_ Cage A_ 3_Mated_sub0_110_130_analysis,55,1.8333333333333333
+labels_v001_093_08_20_21_ Set 2_ Cage A_ 3_Mated_sub1_256_292_analysis,58,1.9333333333333333
+labels_v001_094_08_20_21_ Set 2_ Cage A_ 3_Mated_sub2_307_331_analysis,56,1.8666666666666667
+labels_v001_095_08_20_21_ Set 2_ Cage A_ 3_Mated_sub3_354_364_analysis,54,1.8
+labels_v001_096_08_20_21_ Set 2_ Cage A_ 3_Mated_sub4_402_416_analysis,49,1.6333333333333333
+labels_v001_097_08_20_21_ Set 2_ Cage A_ 3_Mated_sub5_426_468_analysis,63,2.1
+labels_v001_098_08_20_21_ Set 2_ Cage B_ 1_Virgin_sub0_89_102_succesful_analysis,50,1.6666666666666667
+labels_v001_099_08_20_21_ Set 2_ Cage B_ 1_Virgin_sub1_120_123_analysis,63,2.1
+labels_v001_100_08_20_21_ Set 2_ Cage B_ 1_Virgin_sub2_158_164_analysis,66,2.2
+labels_v001_101_08_20_21_ Set 2_ Cage B_ 1_Virgin_sub3_184_188_analysis,60,2.0
+labels_v001_102_08_20_21_ Set 2_ Cage B_ 1_Virgin_sub4_198_204_analysis,57,1.9
+labels_v001_103_08_20_21_ Set 2_ Cage B_ 1_Virgin_sub5_218_228_analysis,54,1.8
+labels_v001_104_08_20_21_ Set 2_ Cage B_ 1_Virgin_sub7_439_448_analysis,38,1.2666666666666666
+labels_v001_105_08_20_21_ Set 2_ Cage B_ 2_Virgin_sub0_87_101_succesful_analysis,53,1.7666666666666666
+labels_v001_106_08_20_21_ Set 2_ Cage B_ 2_Virgin_sub1_243_268_analysis,44,1.4666666666666666
+labels_v001_107_08_20_21_ Set 2_ Cage B_ 2_Virgin_sub2_345_377_analysis,59,1.9666666666666666
+labels_v001_108_08_20_21_ Set 2_ Cage B_ 2_Virgin_sub3_428_436_analysis,60,2.0
+labels_v001_111_08_20_21_ Set 2_ Cage B_ 2_Virgin_sub6_492_522_analysis,49,1.6333333333333333
+labels_v001_112_08_20_21_ Set 2_ Cage B_ 3_Virgin_sub0_29_45_succesful_analysis,51,1.7
+labels_v001_113_08_20_21_ Set 2_ Cage B_ 3_Virgin_sub1_59_63_analysis,57,1.9
+labels_v001_114_08_20_21_ Set 2_ Cage B_ 3_Virgin_sub2_64_67_analysis,0,0.0
+labels_v001_115_08_20_21_ Set 2_ Cage B_ 3_Virgin_sub3_181_197_analysis,49,1.6333333333333333
+labels_v001_116_08_20_21_ Set 2_ Cage B_ 3_Virgin_sub4_344_354_analysis,49,1.6333333333333333
+labels_v001_117_08_20_21_ Set 2_ Cage B_ 3_Virgin_sub5_368_381_analysis,78,2.6
+labels_v001_118_08_23_21_ Cage A_ 1_Mated_sub0_101_111_analysis,50,1.6666666666666667
+labels_v001_119_08_23_21_ Cage A_ 1_Mated_sub1_116_126_analysis,61,2.033333333333333
+labels_v001_120_08_23_21_ Cage A_ 1_Mated_sub2_150_162_analysis,32,1.0666666666666667
+labels_v001_121_08_23_21_ Cage A_ 1_Mated_sub3_190_204_analysis,54,1.8
+labels_v001_122_08_23_21_ Cage A_ 1_Mated_sub4_214_232_analysis,37,1.2333333333333334
+labels_v001_123_08_23_21_ Cage A_ 1_Mated_sub5_254_271_analysis,43,1.4333333333333333
+labels_v001_124_08_23_21_ Cage A_ 1_Mated_sub6_330_349_analysis,50,1.6666666666666667
+labels_v001_125_08_23_21_ Cage A_ 1_Mated_sub7_407_420_analysis,47,1.5666666666666667
+labels_v001_126_08_23_21_ Cage A_ 1_Mated_sub8_493_507_analysis,43,1.4333333333333333
+labels_v001_127_08_23_21_ Cage B_ 1_Virgin_sub0_113_125_analysis,49,1.6333333333333333
+labels_v001_128_08_23_21_ Cage B_ 1_Virgin_sub1_346_355_analysis,52,1.7333333333333334
+labels_v001_129_08_23_21_ Cage B_ 2_Virgin_sub0_162_186_succesful_analysis,38,1.2666666666666666
+labels_v001_130_08_23_21_ Cage B_ 2_Virgin_sub1_476_480_analysis,32,1.0666666666666667
+labels_v001_132_09_07_21_ Cage 3_ 1_Virgin_sub0_178_194_analysis,61,2.033333333333333
+labels_v001_135_09_07_21_ Cage 3_ 2_Virgin_sub1_374_405_analysis,53,1.7666666666666666
+labels_v001_137_09_07_21_ Cage 3_ 4_Virgin_sub0_90_106_attempted_analysis,41,1.3666666666666667
+labels_v001_139_09_07_21_ Cage 3_ 4_Virgin_sub2_414_440_succesful_analysis,52,1.7333333333333334
+labels_v001_140_09_07_21_ Cage 3_ 5_Virgin_sub0_276_289_succesful_analysis,57,1.9
+labels_v001_141_09_07_21_ Cage 3_ 5_Virgin_sub1_395_409_analysis,48,1.6
+labels_v001_142_09_07_21_ Cage 3_ 6_Virgin_sub0_402_415_succesful_analysis,61,2.033333333333333
+labels_v001_143_09_07_21_ Cage 3_ 6_Virgin_sub1_468_473_analysis,57,1.9
+labels_v001_144_09_07_21_ Cage 4_ 1_Mated_sub0_92_100_analysis,42,1.4
+labels_v001_145_09_07_21_ Cage 4_ 1_Mated_sub1_120_126_analysis,57,1.9
+labels_v001_146_09_07_21_ Cage 4_ 1_Mated_sub2_274_284_analysis,54,1.8
+labels_v001_147_09_07_21_ Cage 4_ 1_Mated_sub3_299_330_analysis,48,1.6
+labels_v001_148_09_07_21_ Cage 4_ 1_Mated_sub4_419_431_analysis,39,1.3
+labels_v001_150_09_07_21_ Cage 4_ 2_Mated_sub1_363_375_analysis,42,1.4
+labels_v001_151_09_07_21_ Cage 4_ 3_Mated_sub0_243_258_analysis,49,1.6333333333333333
+labels_v001_152_09_07_21_ Cage 4_ 3_Mated_sub1_304_314_analysis,56,1.8666666666666667
+labels_v001_153_09_13_21_ Cage Wo_ 1_Virgin_sub0_269_287_succesful_analysis,45,1.5
+labels_v001_154_09_13_21_ Cage Wo_ 2_Virgin_sub0_97_113_succesful_analysis,42,1.4
+labels_v001_155_09_13_21_ Cage Wo_ 2_Virgin_sub1_236_254_analysis,49,1.6333333333333333
+labels_v001_156_09_13_21_ Cage Wo_ 2_Virgin_sub2_308_310_analysis,62,2.066666666666667
+labels_v001_157_09_13_21_ Cage Wo_ 2_Virgin_sub4_357_396_analysis,35,1.1666666666666667
+labels_v001_158_09_13_21_ Cage Wo_ 2_Virgin_sub5_401_423_analysis,58,1.9333333333333333
+labels_v001_159_09_13_21_ Cage Wo_ 2_Virgin_sub7_483_514_analysis,45,1.5
+labels_v001_160_09_13_21_ Cage Yesh_ 2_Mated_sub0_74_78_analysis,40,1.3333333333333333
+labels_v001_161_09_13_21_ Cage Yesh_ 2_Mated_sub1_99_102_analysis,50,1.6666666666666667
+labels_v001_162_09_13_21_ Cage Yesh_ 2_Mated_sub2_106_109_analysis,44,1.4666666666666666
+labels_v001_163_09_13_21_ Cage Yesh_ 2_Mated_sub3_129_131_analysis,45,1.5
+labels_v001_164_09_13_21_ Cage Yesh_ 2_Mated_sub4_144_146_analysis,54,1.8
+labels_v001_165_09_13_21_ Cage Yesh_ 2_Mated_sub6_184_188_analysis,57,1.9
+labels_v001_166_09_13_21_ Cage Yesh_ 2_Mated_sub7_196_199_analysis,51,1.7
+labels_v001_167_09_13_21_ Cage Yesh_ 2_Mated_sub8_208_212_analysis,52,1.7333333333333334
+labels_v001_168_09_13_21_ Cage Yesh_ 2_Mated_sub9_244_249_analysis,60,2.0
+labels_v001_169_09_13_21_ Cage Yesh_ 2_Mated_sub10_365_371_analysis,50,1.6666666666666667
+labels_v001_170_09_13_21_ Cage Yesh_ 2_Mated_sub11_372_375_analysis,44,1.4666666666666666
+labels_v001_171_09_13_21_ Cage Yesh_ 2_Mated_sub12_412_423_analysis,47,1.5666666666666667
+labels_v001_172_09_13_21_ Cage Yesh_ 2_Mated_sub13_440_450_analysis,58,1.9333333333333333
+labels_v001_173_09_13_21_ Cage Yesh_ 2_Mated_sub14_480_503_analysis,51,1.7
+labels_v001_174_09_13_21_ Cage Yesh_ 3_Mated_sub0_122_128_analysis,44,1.4666666666666666
+labels_v001_175_09_13_21_ Cage Yesh_ 3_Mated_sub1_174_184_analysis,57,1.9
+labels_v001_176_09_13_21_ Cage Yesh_ 3_Mated_sub2_310_318_analysis,33,1.1
+labels_v001_177_09_13_21_ Cage Yesh_ 3_Mated_sub3_347_353_analysis,56,1.8666666666666667
+labels_v001_178_09_13_21_ Cage Yesh_ 3_Mated_sub4_441_454_analysis,48,1.6
+labels_v001_179_09_14_21_ Cage Kal_ 1_Mated_sub0_73_78_analysis,54,1.8
+labels_v001_180_09_14_21_ Cage Kal_ 2_Mated_sub0_387_393_analysis,60,2.0
+labels_v001_181_09_14_21_ Cage Kal_ 3_Mated_sub0_112_121_analysis,49,1.6333333333333333
+labels_v001_182_09_14_21_ Cage Kal_ 3_Mated_sub1_319_332_analysis,57,1.9
+labels_v001_183_09_14_21_ Cage Kal_ 3_Mated_sub2_367_378_analysis,61,2.033333333333333
+labels_v001_184_09_14_21_ Cage Kal_ 3_Mated_sub3_429_438_analysis,57,1.9
+labels_v001_185_09_14_21_ Cage Kal_ 3_Mated_sub4_452_460_analysis,55,1.8333333333333333
+labels_v001_186_09_14_21_ Cage Kal_ 4_Mated_sub0_412_421_analysis,56,1.8666666666666667
+labels_v001_187_09_14_21_ Cage Kal_ 5_Mated_sub1_208_219_analysis,58,1.9333333333333333
+labels_v001_188_09_14_21_ Cage Kal_ 5_Mated_sub2_313_323_analysis,50,1.6666666666666667
+labels_v001_189_09_14_21_ Cage Kal_ 6_Mated_sub0_117_137_analysis,52,1.7333333333333334
+labels_v001_190_09_14_21_ Cage Kal_ 7_Mated_sub0_70_73_analysis,42,1.4
+labels_v001_191_09_14_21_ Cage Tsom_ 1_Virgin_sub0_140_159_succesful_analysis,53,1.7666666666666666
+labels_v001_192_09_14_21_ Cage Tsom_ 2_Virgin_sub0_330_349_succesful_analysis,55,1.8333333333333333
+labels_v001_193_09_14_21_ Cage Tsom_ 2_Virgin_sub1_357_359_analysis,34,1.1333333333333333
+labels_v001_194_09_14_21_ Cage Tsom_ 2_Virgin_sub3_389_402_analysis,14,0.4666666666666667
